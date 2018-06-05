@@ -1,0 +1,43 @@
+body{
+	text-align: center;
+	background: url('../images/background2.jpeg');
+	background-size: cover;
+	color: white;
+}
+
+header{
+	text-align:center;  
+	background-size:cover;
+	color: black;
+}
+
+h1{
+	font-family: sans-serif;
+	font-size: 40px;
+	color: rgba(100,100,100,0.7);
+}
+
+.name1{
+	color: rgba(100,100,100,0.8);
+	float: left;
+	margin-left: 500px 
+}
+
+.name2{
+	color: rgba(100,100,100,0.8);
+	float: right;
+	margin-right: 500px;
+}
+form{
+	float: top;
+	margin-top: 100px;
+}
+.input{
+	color: rgba(100,100,100,0.8);
+	float: left;
+	margin-left: 400px 
+}
+botton{
+	float: right;
+	margin-left: 500px;
+}
